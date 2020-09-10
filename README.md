@@ -2,7 +2,7 @@
 ## Description
 This repository contains the Soldity, JavaScript, and HTML/CSS code for a Auction Decentralized Application for deployment on the Ethereum blockchain. Some of the deployment code was referenced from the [Ethereum Pet Shop tutorial](https://www.trufflesuite.com/tutorials/pet-shop). The concepts covered in the tutorial (adoption of pets from a shop) were extended to a different application space (auctions) with different functions.
 
-This DApp was presented as a final project for the graduate course, APS1050 (Blockchain Technologies and Cryptocurrencies), taken at the University of Toronto in the Summer of 2020. The executive summary for the app, detailed instructions for launching and running the dApp, and a [link](https://www.youtube.com/watch?v=UfpU2Jhn3IU) to a video outlining how the app works have been included in the repository.
+This DApp was presented as a final project for the graduate course, APS1050 (Blockchain Technologies and Cryptocurrencies), taken at the University of Toronto in the Summer of 2020. The executive summary for the app, detailed instructions for launching and running the dApp, and a [link to a video](https://www.youtube.com/watch?v=UfpU2Jhn3IU) outlining how the app works have been included in the repository.
 
 ## Folder Structure
 The important folders in the directory include:
